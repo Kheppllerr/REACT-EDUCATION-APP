@@ -1,0 +1,11 @@
+Ceci est un fichier txt qui détails tout sur ce app
+Qui émane du tuto react : https://youtu.be/WbV3zRgpw_E?si=zOP1TrrBn3CN-lh0
+
+Création:
+npm create vite@latest
+project name : edusity
+framework : react
+language : javascript
+
+Ensuite cd edusity, puis npm install pour installer
+npm run dev : pour démarrer
